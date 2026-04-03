@@ -390,15 +390,12 @@ li>a:only-child:after {
 
 /*-- //header --*/
 
-.main-content{
-.main-content{
-    background: url("../images/tution1.jpg") no-repeat center;
+.main-content {
+    background: url("images/img4.jpeg") no-repeat center;
     background-size: cover;
+    position: relative;
+    min-height: 50em;
 }
-position:relative;
-min-height:50em;
-}
-
 .layer {
     min-height: 50em;
     background: rgba(0, 0, 0, 0.52);
